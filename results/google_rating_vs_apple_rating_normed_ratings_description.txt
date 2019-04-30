@@ -1,0 +1,1 @@
+Google ratings vs apple ratings using normalised ratings (0–1 scale).
