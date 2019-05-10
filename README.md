@@ -7,18 +7,29 @@
  
 * Please install the following packages:
  
-*   Pandas
-*   Numpy
-*   Requests
-*   Beautiful Soup
-*   Scrapy
-*   Subprocess
-*   Matplotlib
-*   seaborn
-*   SciPy
-*   scikit-learn
-*   NLTK
-*   TextBlob
+      Pandas
+ 
+      Numpy
+ 
+      Requests
+ 
+      Beautiful Soup
+ 
+      Scrapy
+ 
+      Subprocess
+ 
+      Matplotlib
+ 
+      seaborn
+ 
+      SciPy
+ 
+      scikit-learn
+ 
+      NLTK
+ 
+      TextBlob
 
  <br/>
 * In addition, please clone the repository https://github.com/great-expectations/great_expectations.git
